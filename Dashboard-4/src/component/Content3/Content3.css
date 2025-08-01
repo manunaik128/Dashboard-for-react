@@ -56,10 +56,26 @@ table {
     }
 
     tbody td button{
-        padding: 3px 30px;
+        padding: 5px 30px;
         margin-left: 25px;
+        border: none;
+        background-color: rgb(10, 238, 112);
+        border-radius: 15px;
+        color: white;
+        font-size: 11px;
+         width: 120px;
     }
 
     tbody tr:last-child td {
       border-bottom: none; /* Remove border from last row */
+    }
+
+    tbody td #progress{
+             background-color: rgb(231, 11, 11);
+    }
+
+    tbody td #over{
+        background-color: orange;
+       
+  
     }

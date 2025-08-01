@@ -33,28 +33,28 @@ const Content3 = () => {
                                     <td>NextGen Enterprise</td>
                                     <td>Review</td>
                                     <td>27th Aug 2019</td>
-                                     <td><button>ko</button></td>
+                                     <td><button>Assigned</button></td>
                                 </tr>
                                 <tr>
                                     <td>Loan Agreement - Game</td>
                                     <td>Game Technology</td>
                                     <td>Approval</td>
                                     <td>20th Aug 2019</td>
-                                     <td><button>ko</button></td>
+                                     <td><button>Assigned</button></td>
                                 </tr>
                                 <tr>
                                     <td>Loan Agreement - Tag</td>
                                     <td>TAG Corp</td>
                                     <td>Review</td>
                                     <td>28th Jul 2019</td>
-                                     <td><button>ko</button></td>
+                                     <td><button id='over'>In Progress</button></td>
                                 </tr>
                                 <tr>
                                     <td>Loan Agreement - New LLC</td>
                                     <td>New LLC</td>
                                     <td>Sign - off</td>
                                     <td>10th Jul 2019</td>
-                                     <td><button>ko</button></td>
+                                     <td><button id='progress'>Overdue</button></td>
                                 </tr>
                             </tbody>
                         </table>
